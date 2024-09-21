@@ -3,31 +3,7 @@
 	"sites":[
 	{"key":"Wogg","name":"💓玩偶┃4K💓","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
         {"key":"Mogg","name":"💓木偶┃4K💓","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
-	{
-      "key": "Wexlabi",
-      "name": "💓蜡笔┃4K💓",
-      "type": 3,
-      "api": "csp_Wexlabi",
-      "searchable": 1,
-      "changeable": 1
-    },	
-	{
-      "key": "Wexzhizhen",
-      "name": "💓至臻┃4K💓",
-      "type": 3,
-      "api": "csp_Wexzhizhen",
-      "searchable": 1,
-      "changeable": 1
-    },	
-	{
-      "key": "Wexxingyun",
-      "name": "💓幸运┃4K💓",
-      "type": 3,
-      "api": "csp_Wexxingyun",
-      "searchable": 1,
-      "changeable": 1
-    },	
-		{
+{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,
