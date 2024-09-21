@@ -1,6 +1,137 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
+{
+	  "key":"Douban",
+	  "name":"🐮【公众号：王二小放牛娃】🐮",
+	  "type": 3, 
+	  "api": "csp_Douban",
+	  "searchable": 0,
+	  "quickSearch": 0,
+	  "filterable": 0,
+      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
+	},
+    {
+	  "key":"Doubana",
+	  "name":"⬇️【网盘类先扫码】⬇️",
+	  "type": 3, 
+	  "api": "csp_Douban",
+	  "searchable": 0,
+	  "quickSearch": 0,
+	  "filterable": 0,
+      "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
+	},
+	{
+      "key": "Wexconfig",
+      "name": "🐮通用类型┃配置中心🐮",
+      "type": 3,
+      "api": "csp_Wexconfig",
+      "searchable": 0,
+      "changeable": 0,
+	  "indexs": 0
+    },
+	{
+      "key": "Wexokconfig",
+      "name": "🐮影视专用┃配置中心🐮",
+      "type": 3,
+      "api": "csp_Wexokconfig",
+      "searchable": 0,
+      "changeable": 0,
+	  "indexs": 0
+    },
+	{
+      "key": "Wexalllive",
+      "name": "💓‍聚合┃直播💓‍",
+      "type": 3,
+      "api": "csp_Wexalllive",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "115",
+      "name": "💓‍115┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wex115share",
+      "searchable": 1,
+      "changeable": 1,
+	  "timeout":50,
+	  	  "style": {
+        "type": "list"
+        }
+    },
+	{
+      "key": "玩偶",
+      "name": "💓‍玩偶┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "土豆",
+      "name": "💓土豆┃4K💓‍",
+      "type": 3,
+      "api": "csp_Wextudou",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexyingchao",
+      "name": "💓鸟巢┃4K💓",
+      "type": 3,
+      "api": "csp_Wexyingchao",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexnullname",
+      "name": "💓无名┃4K💓",
+      "type": 3,
+      "api": "csp_Wexnullname",
+      "searchable": 1,
+      "changeable": 1
+    },
+
+	{
+      "key": "Wexwanni",
+      "name": "💓玩你┃4K💓",
+      "type": 3,
+      "api": "csp_Wexwanni",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexmuougg",
+      "name": "💓木偶┃4K💓",
+      "type": 3,
+      "api": "csp_Wexmuougg",
+      "searchable": 1,
+      "changeable": 1
+    },
+	{
+      "key": "Wexlabi",
+      "name": "💓蜡笔┃4K💓",
+      "type": 3,
+      "api": "csp_Wexlabi",
+      "searchable": 1,
+      "changeable": 1
+    },	
+	{
+      "key": "Wexzhizhen",
+      "name": "💓至臻┃4K💓",
+      "type": 3,
+      "api": "csp_Wexzhizhen",
+      "searchable": 1,
+      "changeable": 1
+    },	
+	{
+      "key": "Wexxingyun",
+      "name": "💓幸运┃4K💓",
+      "type": 3,
+      "api": "csp_Wexxingyun",
+      "searchable": 1,
+      "changeable": 1
+    },	
 		{
 			"key": "豆瓣",
 			"name": "豆瓣",
