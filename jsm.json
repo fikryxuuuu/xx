@@ -1,60 +1,7 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-	{
-      "key": "Wexalllive",
-      "name": "💓‍聚合┃直播💓‍",
-      "type": 3,
-      "api": "csp_Wexalllive",
-      "searchable": 1,
-      "changeable": 1
-    },
-	{
-      "key": "115",
-      "name": "💓‍115┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wex115share",
-      "searchable": 1,
-      "changeable": 1,
-	  "timeout":50,
-	  	  "style": {
-        "type": "list"
-        }
-    },
 	{"key":"Wogg","name":"💓玩偶┃4K💓","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
-	{
-      "key": "土豆",
-      "name": "💓土豆┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wextudou",
-      "searchable": 1,
-      "changeable": 1
-    },
-	{
-      "key": "Wexyingchao",
-      "name": "💓鸟巢┃4K💓",
-      "type": 3,
-      "api": "csp_Wexyingchao",
-      "searchable": 1,
-      "changeable": 1
-    },
-	{
-      "key": "Wexnullname",
-      "name": "💓无名┃4K💓",
-      "type": 3,
-      "api": "csp_Wexnullname",
-      "searchable": 1,
-      "changeable": 1
-    },
-
-	{
-      "key": "Wexwanni",
-      "name": "💓玩你┃4K💓",
-      "type": 3,
-      "api": "csp_Wexwanni",
-      "searchable": 1,
-      "changeable": 1
-    },
         {"key":"Mogg","name":"💓木偶┃4K💓","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"},
 	{
       "key": "Wexlabi",
