@@ -2,7 +2,18 @@
  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726846288822/wex.txt;md5;f05bffd67004cc1e7640974ed5ed6b71",
   "wallpaper": "https://牛逼.王二小放牛娃.xyz/",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
-  "sites": [
+  "sites": [{
+			"key": "网盘配置",
+			"name": "网盘及彈幕配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"./lib/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
     {
 	  "key":"Douban",
 	  "name":"🐮【公众号：王二小放牛娃】🐮",
