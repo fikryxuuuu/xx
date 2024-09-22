@@ -10,7 +10,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"./lib/tokenm.json",
+			"ext":"https://tt.xubaba.eu.org/https/github.com/fikryxuuuu/TVBOX/blob/12b1d24f6ec805f2c6196256e611e4b58aeb4dd6/lib/tokenm.json",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5}
