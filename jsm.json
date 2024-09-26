@@ -44,7 +44,6 @@
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 		{
-		{
 			"key": "豆瓣",
 			"name": "豆瓣",
 			"type": 3,
@@ -248,7 +247,7 @@
 				"ratio": 1.1
 			}
 		},
-		
+		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
 			"api": "csp_Bdys01",
