@@ -1,8 +1,6 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-
-		},
 		{
 			"key": "网盘配置",
 			"name": "网盘及彈幕配置",
@@ -64,6 +62,7 @@
 				"type": "rect",
 				"ratio": 1.77
 			}
+			},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
