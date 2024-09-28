@@ -42,9 +42,7 @@
         "分类url": "https://mimiju.com/vodshow/{cateId}--{by}------{catePg}---.html",
         "分类": "短剧$20"
       }
-    },*/
-  
-    
+    },
     		{
 			"key": "XBPQ_duanju5",
 			"name": "🧚‍♀️轻盈短剧",
@@ -56,9 +54,7 @@
 			"ext": "分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---{year}.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng",
 			"jar": "./lib/xbpq.jar"
 		},
- 
-
- /*   {
+   {
       "key": "csp_XBPQ_aoaotv",
       "name": "🎾秋哥短剧",
       "type": 3,
