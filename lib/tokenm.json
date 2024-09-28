@@ -62,7 +62,7 @@
 "libxl_url":"./libxl_thunder_sdk.so",
 "youtube_proxy":"proxy",
 "singbox_url":"./sing-box.gz",
-"singbox_subscribe_url":"./san.json",
+"singbox_subscribe_url":"",
 "singbox_clash2singbox_url":"./clash2singbox.gz",
 "singbox_template_url":"./singbox.json",
 "pan115_cookie":"UID=101508599_F1_1726588003;CID=1b95c9989577a40d2fb6c558069f195b;SEID=d84e526e00c6a6755b2b22208bf748556e4cef010358b4405826deb8b8a86ec45add1eb4c842fb2d94593afbae4e8313be60545915dc8320063086cc",
