@@ -34,6 +34,10 @@
 			"type_name":"迅雷"
 		},
 		{
+			"type_id":"番号",
+			"type_name":"番号"
+		},
+		{
 			"type_id":"mp4",
 			"type_name":"MP4"
 		},
