@@ -148,7 +148,7 @@
             "name": "🌿TG|正经",
             "type": 3,
             "api": "csp_TGYunPanLocal",
-            "timeout": 60,
+            "timeout": 120,
             "ext": {
                 "token": "./lib/tokenm.json",
                 "json": "./tgsearch.json",
@@ -165,7 +165,7 @@
             "name": "TG|涩涩",
             "type": 3,
             "api": "csp_TGYunPanLocal",
-            "timeout": 60,
+            "timeout": 120,
             "ext": {
                 "token": "./lib/tokenm.json",
                 "json": "./tgsearch.json",
@@ -182,7 +182,7 @@
             "name": "TG|群组",
             "type": 3,
             "api": "csp_TGYunPan",
-            "timeout": 60,
+            "timeout": 120,
             "ext": {
                 "token": "./tokenm.json",
                 "json": "./tgsearch.json",
@@ -199,7 +199,7 @@
             "name": "TG|磁力",
             "type": 3,
             "api": "csp_TGYunPan",
-            "timeout": 60,
+            "timeout": 120,
             "ext": {
                 "token": "./tokenm.json",
                 "json": "./tgsearch.json",
