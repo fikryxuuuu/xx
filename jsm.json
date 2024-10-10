@@ -56,6 +56,30 @@
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdh","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"},
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
+				{"key":"TGYunPanLocal","name":"🌿TG|正经","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://158.180.77.185:10199",
+				"tgsearch_media_url":"http://158.180.77.185:10199",
+				"channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+				"proxy":"proxy",
+				"danmu":true
+			}
+		},
+		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
+			"ext":{
+				"token":"./lib/tokenm.json",
+				"json":"./lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://158.180.77.185:10199",
+				"tgsearch_media_url":"http://158.180.77.185:10199",
+				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+				"proxy":"noproxy",
+				"danmu":true
+			}
+		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
@@ -143,29 +167,12 @@
 				"cookie":""
 			}
 		},
-		{
-            "key": "TGYunPanLocal",
-            "name": "🌿TG|正经",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 120,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://158.180.77.185:10199",
-		"tgsearch_media_url":"http://158.180.77.185:10199",
-                "channellist": "oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-                "proxy": "proxy",
-                "danmu": true
-            }
-        },
         {
             "key": "TGYunPanLocal1",
             "name": "TG|涩涩",
             "type": 3,
             "api": "csp_TGYunPanLocal",
-            "timeout": 120,
+            "timeout": 60,
             "ext": {
                 "token": "./lib/tokenm.json",
                 "json": "./tgsearch.json",
@@ -182,7 +189,7 @@
             "name": "TG|群组",
             "type": 3,
             "api": "csp_TGYunPan",
-            "timeout": 120,
+            "timeout": 60,
             "ext": {
                 "token": "./tokenm.json",
                 "json": "./tgsearch.json",
@@ -199,7 +206,7 @@
             "name": "TG|磁力",
             "type": 3,
             "api": "csp_TGYunPan",
-            "timeout": 120,
+            "timeout": 60,
             "ext": {
                 "token": "./tokenm.json",
                 "json": "./tgsearch.json",
