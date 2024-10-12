@@ -125,7 +125,7 @@
                     "ratio": 1.77
             }
     },
-				{"key":"TGYunPanLocal","name":"🌿TG|正经","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
+				{"key":"TGYunPanLocal5","name":"🌿TG|正经","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
 				"json":"./lib/tgsearch.json",
