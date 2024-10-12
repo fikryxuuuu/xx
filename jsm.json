@@ -120,7 +120,7 @@
                     "tgsearch_url":"http://158.180.77.185:10199",
 		    "tgsearch_media_url":"http://158.180.77.185:10199",
                     "channellist":"yn666hh,avab01,CosMM18",
-                    "proxy":"proxy",
+                    "proxy":"noproxy",
                     "danmu":true
             },
             "style": {
