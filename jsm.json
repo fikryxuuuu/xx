@@ -110,21 +110,6 @@
                     "ratio": 1.77
             }
     },
-    {"key":"TGYunPan1","name":"🌿TG群组视频","type":3,"api":"csp_TGYunPan","timeout":60,
-            "ext":{
-                    "token":"./lib/token.json",
-                    "json":"./lib/tgsearch.json",
-                    "keywords":"名称,片名,推荐",
-                    "tgsearch_url":"http://158.180.77.185:10199",
-                    "channellist":"Seeyellow,avwmjav,gtkankan1,fbi2me,tumblrAce",
-                    "proxy":"noproxy",
-                    "danmu":true
-            },
-            "style": {
-                    "type": "rect",
-                    "ratio": 1.77
-            }
-    },
         {
 	"key":"TGYunPanLocal18+","name":"🍌TG频道搜索18+","type":3,"api":"csp_TGYunPanLocal","timeout":60,
             "ext":{
