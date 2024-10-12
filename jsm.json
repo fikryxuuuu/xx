@@ -175,7 +175,7 @@
             }
         },
 	   {
-            "key": "TGYunPan",
+            "key": "TGYunPan2",
             "name": "TG|群组",
             "type": 3,
             "api": "csp_TGYunPan",
@@ -192,7 +192,7 @@
             }
         },
         {
-            "key": "TGYunPan1",
+            "key": "TGYunPan3",
             "name": "TG|磁力",
             "type": 3,
             "api": "csp_TGYunPan",
