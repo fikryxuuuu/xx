@@ -125,40 +125,8 @@
                     "ratio": 1.77
             }
     },
-    {
-            "key": "TGYunPanLocal1",
-            "name": "TG|涩涩",
-            "type": 3,
-            "api": "csp_TGYunPanLocal",
-            "timeout": 60,
-            "ext": {
-                "token": "./lib/tokenm.json",
-                "json": "./tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://158.180.77.185:10199",
-		"tgsearch_media_url":"http://158.180.77.185:10199",    
-                "channellist": "pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime",
-                "proxy": "proxy",
-                "danmu": true
-            }
-        },
         {
-            "key": "TGYunPan3",
-            "name": "TG|磁力",
-            "type": 3,
-            "api": "csp_TGYunPan",
-            "timeout": 60,
-            "ext": {
-                "token": "./tokenm.json",
-                "json": "./tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://158.180.77.185:10199",
-		"tgsearch_media_url":"http://158.180.77.185:10199",    
-                "channellist": "IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314",
-                "proxy": "noproxy",
-                "danmu": true
-            }
-        },{"key":"TGYunPanLocal18+","name":"TG频道搜索18+","type":3,"api":"csp_TGYunPanLocal","timeout":60,
+	"key":"TGYunPanLocal18+","name":"🍌TG频道搜索18+","type":3,"api":"csp_TGYunPanLocal","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.a.json",
@@ -173,13 +141,13 @@
                     "ratio": 1.77
             }
     },
-    {"key":"TGYunPan18+","name":"TG群组网盘18+","type":3,"api":"csp_TGYunPan","timeout":60,
+    {"key":"TGYunPan18+","name":"🍌TG群组网盘18+","type":3,"api":"csp_TGYunPan","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.a.json",
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
-                    "channellist":"IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,cilitu,SeseAnime",
+                    "channellist":"IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314",
                     "proxy":"noproxy",
                     "danmu":true
             },
@@ -188,7 +156,7 @@
                     "ratio": 1.77
             }
     },
-    {"key":"TGShiPing","name":"TG群组视频18+","type":3,"api":"csp_TGYunPan","timeout":60,
+    {"key":"TGShiPing","name":"🍌TG群组视频18+","type":3,"api":"csp_TGYunPan","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.a.json",
