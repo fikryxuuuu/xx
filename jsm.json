@@ -86,8 +86,8 @@
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
 		    "tgsearch_media_url":"http://158.180.77.185:10199",
-                    "channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,XiangxiuNB,yunpanpan,zaihuayun,vip115hot,yunpanshare,ikiviyyp,alyp_1,quanziyuanshe",
-                    "proxy":"noproxy",
+                    "channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+                    "proxy":"proxy",
                     "danmu":true
             },
             "style": {
@@ -101,6 +101,7 @@
                     "json":"./lib/tgsearch.json",
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
+		    "tgsearch_media_url":"http://158.180.77.185:10199",
                     "channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
                     "proxy":"noproxy",
                     "danmu":true
@@ -117,8 +118,9 @@
                     "json":"./lib/tgsearch.a.json",
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
+		    "tgsearch_media_url":"http://158.180.77.185:10199",
                     "channellist":"yn666hh,avab01,CosMM18",
-                    "proxy":"noproxy",
+                    "proxy":"proxy",
                     "danmu":true
             },
             "style": {
