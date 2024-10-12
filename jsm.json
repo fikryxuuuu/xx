@@ -79,6 +79,52 @@
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdh","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"},
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
+		{"key":"TGYunPanLocal","name":"🌿TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60,
+            "ext":{
+                    "token":"./lib/token.json",
+                    "json":"./lib/tgsearch.a.json",
+                    "keywords":"名称,片名,推荐",
+                    "tgsearch_url":"http://158.180.77.185:10199",
+		    "tgsearch_media_url":"http://158.180.77.185:10199",
+                    "channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,XiangxiuNB,yunpanpan,zaihuayun,vip115hot,yunpanshare,ikiviyyp,alyp_1,quanziyuanshe,yn666hh,avab01,CosMM18",
+                    "proxy":"noproxy",
+                    "danmu":true
+            },
+            "style": {
+                    "type": "rect",
+                    "ratio": 1.77
+            }
+    },
+    {"key":"TGYunPan","name":"🌿TG群组网盘","type":3,"api":"csp_TGYunPan","timeout":60,
+            "ext":{
+                    "token":"./lib/token.json",
+                    "json":"./lib/tgsearch.a.json",
+                    "keywords":"名称,片名,推荐",
+                    "tgsearch_url":"http://158.180.77.185:10199",
+                    "channellist":"Mbox115|1000,shares_115|1000,wanwansubchat|1000,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,cilitu,SeseAnime",
+                    "proxy":"noproxy",
+                    "danmu":true
+            },
+            "style": {
+                    "type": "rect",
+                    "ratio": 1.77
+            }
+    },
+    {"key":"TGYunPan1","name":"🌿TG群组视频","type":3,"api":"csp_TGYunPan","timeout":60,
+            "ext":{
+                    "token":"./lib/token.json",
+                    "json":"./lib/tgsearch.a.json",
+                    "keywords":"名称,片名,推荐",
+                    "tgsearch_url":"http://158.180.77.185:10199",
+                    "channellist":"Seeyellow,avwmjav,gtkankan1,fbi2me,tumblrAce",
+                    "proxy":"noproxy",
+                    "danmu":true
+            },
+            "style": {
+                    "type": "rect",
+                    "ratio": 1.77
+            }
+    },
 				{"key":"TGYunPanLocal","name":"🌿TG|正经","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
