@@ -141,7 +141,7 @@
                 "tgsearch_url": "http://158.180.77.185:10199",
 	        "tgsearch_media_url":"http://158.180.77.185:10199",
                 "channellist": "alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat",
-                "proxy": "noproxy",
+                "proxy": "proxy",
                 "danmu": true
             }
         },
@@ -155,7 +155,7 @@
                 "token": "./tokenm.json",
                 "json": "./tgsearch.json",
                 "keywords": "名称,片名,推荐",
-                "tgsearch_url": "hhttp://158.180.77.185:10199",
+                "tgsearch_url": "http://158.180.77.185:10199",
 		"tgsearch_media_url":"http://158.180.77.185:10199",    
                 "channellist": "IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314",
                 "proxy": "noproxy",
