@@ -2,6 +2,18 @@
 	"recommend":"名称",
 	"class":[
 		{
+			"type_id":"视频",
+			"type_name":"视频"
+		},
+		{
+			"type_id":"名称",
+			"type_name":"名称"
+		},
+		{
+			"type_id":"片名",
+			"type_name":"片名"
+		},
+		{
 			"type_id":"115.com",
 			"type_name":"115"
 		},
