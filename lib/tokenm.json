@@ -1,4 +1,13 @@
 {
+ "aliToken": "",
+ "quarkCookie": "",
+ "ucCookie": "",
+ "115Cookie": "",
+ "pwdRb115": "",
+ "goServerUrl": "http://127.0.0.1:9966",
+ "ydAuth": "",
+ "proxy":"http://146.235.198.68:10170",
+ "tgsou_api_session":""
 "token":"",
 "open_token":"",
 "open_api_url":"postparam|http://api.extscreen.com/aliyundrive/token",
