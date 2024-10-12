@@ -86,7 +86,7 @@
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
 		    "tgsearch_media_url":"http://158.180.77.185:10199",
-                    "channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,XiangxiuNB,yunpanpan,zaihuayun,vip115hot,yunpanshare,ikiviyyp,alyp_1,quanziyuanshe,yn666hh,avab01,CosMM18",
+                    "channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,XiangxiuNB,yunpanpan,zaihuayun,vip115hot,yunpanshare,ikiviyyp,alyp_1,quanziyuanshe",
                     "proxy":"noproxy",
                     "danmu":true
             },
@@ -125,22 +125,6 @@
                     "ratio": 1.77
             }
     },
-				{"key":"TGYunPanLocal5","name":"🌿TG|正经","type":3,"api":"csp_TGYunPanLocal","timeout":120, 
-			"ext":{
-				"token":"./lib/tokenm.json",
-				"json":"./lib/tgsearch.json",
-				"keywords":"名称,片名,推荐",
-				"tgsearch_url":"http://158.180.77.185:10199",
-				"tgsearch_media_url":"http://158.180.77.185:10199",
-				"channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-				"proxy":"proxy",
-				"danmu":true
-			},
-			"style": {
-				"type": "rect",
-				"ratio": 1.77
-			}
-		},
 		{"key":"TGYunPan","name":"TG群组搜索","type":3,"api":"csp_TGYunPan","timeout":120, 
 			"ext":{
 				"token":"./lib/tokenm.json",
@@ -174,23 +158,6 @@
                 "danmu": true
             }
         },
-	   {
-            "key": "TGYunPan2",
-            "name": "TG|群组",
-            "type": 3,
-            "api": "csp_TGYunPan",
-            "timeout": 60,
-            "ext": {
-                "token": "./tokenm.json",
-                "json": "./tgsearch.json",
-                "keywords": "名称,片名,推荐",
-                "tgsearch_url": "http://158.180.77.185:10199",
-	        "tgsearch_media_url":"http://158.180.77.185:10199",
-                "channellist": "alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat",
-                "proxy": "proxy",
-                "danmu": true
-            }
-        },
         {
             "key": "TGYunPan3",
             "name": "TG|磁力",
@@ -207,7 +174,51 @@
                 "proxy": "noproxy",
                 "danmu": true
             }
-        },
+        },{"key":"TGYunPanLocal18+","name":"TG频道搜索18+","type":3,"api":"csp_TGYunPanLocal","timeout":60,
+            "ext":{
+                    "token":"./lib/token.json",
+                    "json":"./lib/tgsearch.a.json",
+                    "keywords":"名称,片名,推荐",
+                    "tgsearch_url":"http://158.180.77.185:10199",
+                    "channellist":"yn666hh,avab01,CosMM18",
+                    "proxy":"noproxy",
+                    "danmu":true
+            },
+            "style": {
+                    "type": "rect",
+                    "ratio": 1.77
+            }
+    },
+    {"key":"TGYunPan18+","name":"TG群组网盘18+","type":3,"api":"csp_TGYunPan","timeout":60,
+            "ext":{
+                    "token":"./lib/token.json",
+                    "json":"./lib/tgsearch.a.json",
+                    "keywords":"名称,片名,推荐",
+                    "tgsearch_url":"http://127.0.0.1:10199",
+                    "channellist":"IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,cilitu,SeseAnime",
+                    "proxy":"noproxy",
+                    "danmu":true
+            },
+            "style": {
+                    "type": "rect",
+                    "ratio": 1.77
+            }
+    },
+    {"key":"TGShiPing","name":"TG群组视频18+","type":3,"api":"csp_TGYunPan","timeout":60,
+            "ext":{
+                    "token":"./lib/token.json",
+                    "json":"./lib/tgsearch.a.json",
+                    "keywords":"名称,片名,推荐",
+                    "tgsearch_url":"http://127.0.0.1:10199",
+                    "channellist":"Seeyellow,avwmjav,gtkankan1,fbi2me,tumblrAce",
+                    "proxy":"noproxy",
+                    "danmu":true
+            },
+            "style": {
+                    "type": "rect",
+                    "ratio": 1.77
+            }
+    },
 	   {
       "key": "TgYunPan|服务器",
       "name": "TgYunPan|服务器",
