@@ -16,8 +16,19 @@
 			}
 		},
 		{
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./peizhi.json"
+      }
+    },
+		{
 			"key":"Youtube",
-			"name":"Youtube",
+			"name":"🐏PG|Youtube",
 			"type":3,
 			"api": "csp_Youtube",
 			"searchable": 1,
@@ -38,6 +49,35 @@
 				"ratio": 1.77
 			}
 		},
+		    {
+      "key": "Youtube1",
+      "name": "🐏真心|Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "commonConfig": "./zx/peizhi.json",
+        "json": "./zx/youtube.json",
+        "cookie": ""
+      }
+    },
+		    {
+      "key": "星剧社",
+      "name": "星剧社",
+      "type": 3,
+      "api": "csp_Star2",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./zx/peizhi.json"
+      }
+    },
 		{"key":"Wogg","name":"💂玩偶哥哥|4K","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
 		{"key":"Wobg","name":"💂玩偶表哥|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json$$$WOBG"},
 		{"key":"yydsys","name":"💂玩你老哥|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json$$$WNLG"},
