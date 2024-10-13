@@ -54,8 +54,8 @@
       "key": "Youtube1",
       "name": "🐏真心|Youtube",
       "type": 3,
-      "api": "csp_Youtube",
-      "jar": "./custom_spider.jar",			    
+      "jar": "./custom_spider.jar",
+      "api": "csp_Youtube",			    
       "searchable": 1,
       "changeable": 1,
       "style": {
@@ -65,7 +65,7 @@
       "ext": {
         "commonConfig": "./zx/peizhi.json",
         "json": "./zx/youtube.json",
-	"proxy":"http://146.235.198.68:44944",      
+	"proxy":"proxy",      
         "cookie": "Cgtia2NpczZza2hFQSiaga64BjIKCgJVUxIEGgAgTg"
       }
     },
@@ -73,8 +73,8 @@
       "key": "星剧社",
       "name": "星剧社",
       "type": 3,
-      "api": "csp_Star2",
       "jar": "./custom_spider.jar",
+      "api": "csp_Star2",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -135,7 +135,8 @@
       "ext": {
         "siteUrl":"http://158.180.77.185:9999/",
         "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./zx/peizhi.json"
+        "commonConfig": "./zx/peizhi.json",
+	"json":"./lib/tgsearch.json"   
       }
     },
     {
@@ -144,13 +145,13 @@
       "type": 3,
       "jar": "./custom_spider.jar",
       "api": "csp_TgYunPanLocal",
-      "json":"./lib/tgsearch.json",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
         "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./zx/peizhi.json"
+        "commonConfig": "./zx/peizhi.json",  
+	"json":"./lib/tgsearch.json"    
       }
     },
 		{"key":"TGYunPanLocal","name":"🌿TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60,
