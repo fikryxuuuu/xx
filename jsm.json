@@ -54,10 +54,10 @@
       "key": "Youtube1",
       "name": "🐏真心|Youtube",
       "type": 3,
-      "jar": "./custom_spider.jar",
       "api": "csp_Youtube",			    
       "searchable": 1,
       "changeable": 1,
+      "jar": "./custom_spider.jar",
       "style": {
         "type": "rect",
         "ratio": 1.433
