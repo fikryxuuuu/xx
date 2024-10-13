@@ -5,11 +5,11 @@
       "key": "dr_豆瓣",
       "name": "🔍豆瓣荐片(js)",
       "type": 3,
-      "api": "./js/lib/drpy2.min.js",
+      "api": "./zx/js/lib/drpy2.min.js",
       "searchable": 2,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./js/douban.js"
+      "ext": "./zx/js/douban.js"
     },
     {
       "key": "玩偶gg",
@@ -19,9 +19,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./zx/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "./wogg.json"
+        "filter": "./zx/wogg.json"
       }
     },
     {
@@ -36,7 +36,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./bilibili.json",
+        "json": "./zx/bilibili.json",
         "cookie": "qwewqddasdasd"
       }
     },
@@ -48,9 +48,9 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
+        "commonConfig": "./zx/peizhi.json",
         "siteUrl": "http://labipan.com/",
-        "filter": "./wogg.json"
+        "filter": "./zx/wogg.json"
       }
     },
     {
@@ -61,7 +61,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -75,7 +75,7 @@
       "ext": {
         "siteUrl": "http://127.0.0.1:9999",
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -88,7 +88,7 @@
       "switchable": 0,
       "ext": {
         "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -100,7 +100,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -113,7 +113,7 @@
       "switchable": 0,
       "ext": {
         "cookie": "",
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -124,7 +124,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -135,7 +135,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     },
     {
@@ -150,8 +150,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "commonConfig": "./peizhi.json",
-        "json": "./youtube.json",
+        "commonConfig": "./zx/peizhi.json",
+        "json": "./zx/youtube.json",
         "cookie": ""
       }
     },
@@ -173,8 +173,8 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json",
-        "share": "./网盘集合.json"
+        "commonConfig": "./zx/peizhi.json",
+        "share": "./zx/网盘集合.json"
       }
     },
     {
@@ -186,7 +186,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./peizhi.json"
+        "commonConfig": "./zx/peizhi.json"
       }
     }
   ]
