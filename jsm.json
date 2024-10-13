@@ -15,6 +15,18 @@
 				"ratio": 1.5
 			}
 		},
+		    {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "jar": "./custom_spider.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "./zx/peizhi.json"
+      }
+    },
 		{
 			"key":"Youtube",
 			"name":"🐏PG|Youtube",
