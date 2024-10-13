@@ -50,6 +50,24 @@
 				"ratio": 1.77
 			}
 		},
+		{
+      "key": "Youtube🎀",
+      "name": "🎀Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "searchable": 1,
+      "changeable": 1,
+       "jar": "./custom_spider.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "commonConfig": "./zx/peizhi.json",
+        "json": "./zx/youtube.json",
+        "cookie": "Cgtia2NpczZza2hFQSiaga64BjIKCgJVUxIEGgAgTg"
+      }
+    },
 		    {
       "key": "Youtube1",
       "name": "🐏真心|Youtube",
