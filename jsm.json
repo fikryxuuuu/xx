@@ -63,6 +63,7 @@
       "ext": {
         "commonConfig": "./zx/peizhi.json",
         "json": "./zx/youtube.json",
+	"proxy":"http://146.235.198.68:44944",      
         "cookie": "Cgtia2NpczZza2hFQSiaga64BjIKCgJVUxIEGgAgTg"
       }
     },
