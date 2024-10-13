@@ -141,8 +141,8 @@
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 {
-      "key": "🍉TG真心|服务器",
-      "name": "TgYunPan|服务器",
+      "key": "TgYunPan|服务器",
+      "name": "🍉TG真心|服务器",
       "type": 3,
       "jar": "./custom_spider.jar",	   
       "api": "csp_TgYunPan",
@@ -150,14 +150,14 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl":"http://158.180.77.185:9999/",
+        "siteUrl":"http://158.180.77.185:9999",
         "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "./zx/peizhi.json"
       }
     },
     {
-      "key": "🍉TG真心|本地",
-      "name": "TgYunPan|本地",
+      "key": "TgYunPan|本地",
+      "name": "🍉TG真心|本地",
       "type": 3,
       "jar": "./custom_spider.jar",
       "api": "csp_TgYunPanLocal",
