@@ -79,14 +79,44 @@
 		{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdh","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://hdhive.online$$$noproxy$$$1$$$./lib/hdhive.txt"},
 		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
-	{"key":"TGYunPanLocal","name":"🌿TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60,
+{
+      "key": "🍉TG真心|服务器",
+      "name": "TgYunPan|服务器",
+      "type": 3,
+      "jar": "./custom_spider.jar",	   
+      "api": "csp_TgYunPan",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl":"http://158.180.77.185:9999/",
+        "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "commonConfig": "./zx/peizhi.json"
+      }
+    },
+    {
+      "key": "🍉TG真心|本地",
+      "name": "TgYunPan|本地",
+      "type": 3,
+      "jar": "./custom_spider.jar",
+      "api": "csp_TgYunPanLocal",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "commonConfig": "./zx/peizhi.json",
+	"json":"./lib/tgsearch.json",
+      }
+    },
+		{"key":"TGYunPanLocal","name":"🌿TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.json",
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
 		    "tgsearch_media_url":"http://158.180.77.185:10199",
-                    "channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+                    "channellist":"oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
                     "proxy":"proxy",
                     "danmu":true
             },
@@ -112,7 +142,7 @@
             }
     },
         {
-	"key":"TGYunPanLocal18+","name":"🍌TG频道搜索18+","type":3,"api":"csp_TGYunPanLocal","timeout":60,
+	"key":"TGYunPanLocal18+","name":"🍌TG频道搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.a.json",
@@ -128,7 +158,7 @@
                     "ratio": 1.77
             }
     },
-    {"key":"TGYunPan18+","name":"🍌TG群组网盘18+","type":3,"api":"csp_TGYunPan","timeout":60,
+    {"key":"TGYunPan18+","name":"🍌TG群组网盘","type":3,"api":"csp_TGYunPan","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.a.json",
@@ -143,7 +173,7 @@
                     "ratio": 1.77
             }
     },
-    {"key":"TGShiPing","name":"🍌TG群组视频18+","type":3,"api":"csp_TGYunPan","timeout":60,
+    {"key":"TGShiPing","name":"🍌TG群组视频","type":3,"api":"csp_TGYunPan","timeout":60,
             "ext":{
                     "token":"./lib/token.json",
                     "json":"./lib/tgsearch.a.json",
@@ -157,35 +187,6 @@
                     "type": "rect",
                     "ratio": 1.77
             }
-    },
-	   {
-      "key": "TgYunPan|服务器",
-      "name": "TgYunPan|服务器",
-      "type": 3,
-      "jar": "./custom_spider.jar",	   
-      "api": "csp_TgYunPan",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "siteUrl":"http://158.180.77.185:9999/",
-        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./zx/peizhi.json"
-      }
-    },
-    {
-      "key": "TgYunPan|本地",
-      "name": "TgYunPan|本地",
-      "type": 3,
-      "jar": "./custom_spider.jar",
-      "api": "csp_TgYunPanLocal",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "./zx/peizhi.json"
-      }
     },
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
