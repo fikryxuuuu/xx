@@ -270,6 +270,17 @@
 			"order_num": 0,
 			"ext": "./dz/drpy_js/爱看短剧[盘].js"
 		},
+				{
+			"key": "hipy_js_榜一短剧",
+			"name": "榜一短剧(drpy_t3)",
+			"type": 3,
+			"api": "./dz/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./dz/drpy_js/榜一短剧.js"
+		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
 			"style": {
