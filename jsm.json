@@ -96,6 +96,7 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -301,6 +302,7 @@
       "name": "🌺韩剧┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanjutv",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -309,6 +311,7 @@
       "name": "🌺韩圈┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanxiaoquan",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -866,6 +869,7 @@
       "name": "🌐格斗┃体育🌐",
       "type": 3,
       "api": "csp_Wexwuxiang",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -878,6 +882,7 @@
       "name": "🌐格斗┃WWE🌐",
       "type": 3,
       "api": "csp_Wexwwe",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 0
     },
@@ -886,6 +891,7 @@
       "name": "🌐88┃体育🌐",
       "type": 3,
       "api": "csp_Kanqiu",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -897,6 +903,7 @@
       "name": "🌐926┃体育🌐",
       "type": 3,
       "api": "csp_Wex926kanqiu",
+      "jar": "./wex.txt", 
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -908,6 +915,7 @@
       "name": "🌐一直┃体育🌐",
       "type": 3,
       "api": "csp_Wexzhibo1",
+      "jar": "./wex.txt",		    
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -919,6 +927,7 @@
 	  "name":"🐧大鹅┃体育🌐",
 	  "type":3,
 	  "api":"csp_XPath",
+          "jar": "./wex.txt",		
 	  "style":{"type":"list"},
       "searchable":0,
 	  "quickSearch":0,
