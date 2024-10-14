@@ -87,6 +87,7 @@
       "name": "💓‍聚合┃直播💓‍",
       "type": 3,
       "api": "csp_Wexalllive",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -256,6 +257,7 @@
       "name": "🍉短剧┃秒播🍉",
       "type": 3,
       "api": "csp_Wexduanjuvop",
+      "jar": "./wex.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -264,6 +266,7 @@
       "name": "🍉短剧┃仙品🍉",
       "type": 3,
       "api": "csp_Wexduanjuhema",
+      "jar": "./wex.txt",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -272,12 +275,14 @@
       "name": "🍉短剧┃极品🍉",
       "type": 3,
       "api": "csp_Wexduanju001",
+      "jar": "./wex.txt",    
       "searchable": 1,
       "changeable": 1
     },
     {
       "key": "Wexduanjuvip",
       "name": "🍉短剧┃精品🍉",
+      "jar": "./wex.txt",   
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -785,6 +790,7 @@
       "name": "👼多多┃儿歌👼",
       "type": 3,
       "api": "csp_Wexergeduoduo",
+      "jar": "./wex.txt",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -797,6 +803,7 @@
       "name": "👼宝宝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbaobaobashi",
+      "jar": "./wex.txt",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -809,6 +816,7 @@
       "name": "👼贝贝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbeiwa",
+      "jar": "./wex.txt",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -821,6 +829,7 @@
       "name": "👼兔兔┃儿歌👼",
       "type": 3,
       "api": "csp_Wextuxiaobei",
+      "jar": "./wex.txt",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
