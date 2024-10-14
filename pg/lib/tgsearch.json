@@ -1,10 +1,22 @@
 {
 	"recommend":"名称",
 	"class":[
-		{
-			"type_id":"视频",
-			"type_name":"视频"
-		},
+	    {
+            "type_id": "LIST:国产剧,港剧,欧美剧,台剧,美剧,韩剧",
+            "type_name": "影視劇集"
+        },
+        {
+   "type_id":"LIST:动作,谍战,恐怖,历史,情色,仙侠,古装,悬疑,犯罪,喜剧",
+   "type_name":"電影類型"
+  },
+        {
+   "type_id":"LIST:美国,韩国,日本,泰国,西班牙,加拿大,德国,意大利,英国",
+   "type_name":"影視分区"
+  },
+        {
+   "type_id":"LIST:演唱会,歌曲,歌手,音乐会,音乐综艺,热歌榜",
+   "type_name":"音乐"
+  },
 		{
 			"type_id":"名称",
 			"type_name":"名称"
@@ -13,6 +25,14 @@
 			"type_id":"片名",
 			"type_name":"片名"
 		},
+		{
+            "type_id":"CHANNEL:oneonefivewpfx,hao115,HMYShare,guaguale115,Channel_Shares_115,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,alyp_TV|1000,aliyun_4K_Movies|1000,pikpakZYZ|1000,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$LIST:,115.com,www.alipan.com,pan.quark.cn,www.yun.cn",
+                        "type_name":"指定频道搜索"
+                },
+         {
+              "type_id":"CHANNEL:Aliyun_4K_Movies,alypzyhzq,alyp_TV,HMYShare$$$LIST:,www.alipan.com",
+                        "type_name":"指定影巢搜索"
+                },       
 		{
 			"type_id":"115.com",
 			"type_name":"115"
