@@ -29,16 +29,6 @@
         "commonConfig": "./zx/peizhi.json"
       }
     },
-   {
-      "key": "Wexokconfig",
-      "name": "🐮影视专用┃配置中心🐮",
-      "type": 3,
-      "api": "csp_Wexokconfig",
-      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0
-    },
 		{
 			"key":"🐏PG|Youtube",
 			"name":"🐏PG|Youtube",
@@ -414,12 +404,6 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"88Pan","name":"88网盘|网盘搜索","type":3,"api":"csp_EightEight","timeout":60, "ext":"./pg/lib/tokenm.json$$$https://662688.xyz$$$",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
 		{"key":"PanSearch","name":"PanSearch|网盘搜索","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./pg/lib/tokenm.json$$$null$$$proxy"},
 		{"key":"盘友圈","name":"盘友圈|网盘搜索","type":3,"api":"csp_Panyq","timeout":60, "ext":"./pg/lib/tokenm.json$$$site$$$proxy"},
 		{"key":"易搜","name":"易搜|网盘搜索","type":3,"api":"csp_YiSo","timeout":60, "ext":"./pg/lib/tokenm.json$$$./pg/lib/yiso.txt",
@@ -475,17 +459,13 @@
 		}, 
 		{
 			"key": "JustLive",
-			"name": "JustLive",
+			"name": "网红|直播",
 			"type": 3,
 			"api": "csp_JustLive",
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
-		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
-		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./pg/js/alistjar.json"},
+
 		{
 			"key": "快看",
 			"name": "快看",
@@ -497,14 +477,6 @@
 			"filterable": 1
 		},
 		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
-		{
-			"key": "櫻花",
-			"name": "櫻花",
-			"type": 3,
-			"api": "csp_Ying",
-			"searchable": 1,
-			"changeable": 0
-		},
 		{
 			"key": "👩巴士|动漫",
 			"name": "👩巴士|动漫",
