@@ -69,7 +69,7 @@
       "name": "💓‍聚合┃直播💓‍",
       "type": 3,
       "api": "csp_Wexalllive",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -78,7 +78,7 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -248,7 +248,7 @@
       "name": "🍉短剧┃秒播🍉",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -257,7 +257,7 @@
       "name": "🍉短剧┃仙品🍉",
       "type": 3,
       "api": "csp_Wexduanjuhema",
-      "jar": "./放牛.js",	    
+      "jar": "./wex.jar",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -284,7 +284,7 @@
       "name": "🌺韩剧┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanjutv",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -293,7 +293,7 @@
       "name": "🌺韩圈┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanxiaoquan",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 1
     },
@@ -799,7 +799,7 @@
       "name": "👼多多┃儿歌👼",
       "type": 3,
       "api": "csp_Wexergeduoduo",
-      "jar": "./放牛.js",   
+      "jar": "./wex.jar",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -812,7 +812,7 @@
       "name": "👼宝宝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbaobaobashi",
-      "jar": "./放牛.js",   
+      "jar": "./wex.jar",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -825,7 +825,7 @@
       "name": "👼贝贝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbeiwa",
-      "jar": "./放牛.js",   
+      "jar": "./wex.jar",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -838,7 +838,7 @@
       "name": "👼兔兔┃儿歌👼",
       "type": 3,
       "api": "csp_Wextuxiaobei",
-      "jar": "./放牛.js",   
+      "jar": "./wex.jar",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -851,7 +851,7 @@
       "name": "🌐格斗┃体育🌐",
       "type": 3,
       "api": "csp_Wexwuxiang",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -864,7 +864,7 @@
       "name": "🌐格斗┃WWE🌐",
       "type": 3,
       "api": "csp_Wexwwe",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 0
     },
@@ -873,7 +873,7 @@
       "name": "🌐88┃体育🌐",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "./放牛.js",
+      "jar": "./wex.jar",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -885,7 +885,7 @@
       "name": "🌐926┃体育🌐",
       "type": 3,
       "api": "csp_Wex926kanqiu",
-      "jar": "./放牛.js", 
+      "jar": "./wex.jar", 
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -897,7 +897,7 @@
       "name": "🌐一直┃体育🌐",
       "type": 3,
       "api": "csp_Wexzhibo1",
-      "jar": "./放牛.js",		    
+      "jar": "./wex.jar",		    
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -909,7 +909,7 @@
 	  "name":"🐧大鹅┃体育🌐",
 	  "type":3,
 	  "api":"csp_XPath",
-          "jar": "./放牛.js",		
+          "jar": "./wex.jar",		
 	  "style":{"type":"list"},
       "searchable":0,
 	  "quickSearch":0,
