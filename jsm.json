@@ -851,7 +851,7 @@
       "name": "🌐格斗┃体育🌐",
       "type": 3,
       "api": "csp_Wexwuxiang",
-      "jar": "./wex.txt",
+      "jar": "./放牛.js",
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -864,7 +864,7 @@
       "name": "🌐格斗┃WWE🌐",
       "type": 3,
       "api": "csp_Wexwwe",
-      "jar": ./放牛.js",
+      "jar": "./放牛.js",
       "searchable": 1,
       "changeable": 0
     },
