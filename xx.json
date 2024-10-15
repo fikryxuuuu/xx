@@ -134,7 +134,7 @@
       "switchable": 0,
       "ext": {
         "siteUrl":"http://45.207.209.177:9999",
-        "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "channelUsername": "wpzyhj,oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "./zx/peizhi.json"  
       }
     },
@@ -148,7 +148,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "channelUsername": "oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "channelUsername": "wpzyhj,oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "./zx/peizhi.json"  
       }
     },
@@ -175,7 +175,7 @@
                     "keywords":"名称,片名,推荐",
                     "tgsearch_url":"http://158.180.77.185:10199",
 		    "tgsearch_media_url":"http://158.180.77.185:10199",
-                    "channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+                    "channellist":"wpzyhj,alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
                     "proxy":"noproxy",
                     "danmu":true
             },
