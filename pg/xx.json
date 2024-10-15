@@ -22,7 +22,7 @@
       "name": "配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
-      "jar": "./zx/zx.jar",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/zx/zx.jar",
       "searchable": 0,
       "changeable": 0,
       "ext": {
@@ -56,7 +56,7 @@
       "key": "星剧社",
       "name": "星剧社",
       "type": 3,
-      "jar": "./zx/zx.jar",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/zx/zx.jar",
       "api": "csp_Star2",
       "searchable": 1,
       "filterable": 0,
@@ -70,7 +70,7 @@
       "name": "💓‍聚合┃直播💓‍",
       "type": 3,
       "api": "csp_Wexalllive",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -79,7 +79,7 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -128,7 +128,7 @@
       "key": "TgYunPan|服务器",
       "name": "🍉TG真心|服务器",
       "type": 3,
-      "jar": "./zx/zx.jar",	   
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/zx/zx.jar",	   
       "api": "csp_TgYunPan",
       "searchable": 1,
       "filterable": 0,
@@ -143,7 +143,7 @@
       "key": "TgYunPan|本地",
       "name": "🍉TG真心|本地",
       "type": 3,
-      "jar": "./zx/zx.jar",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/zx/zx.jar",
       "api": "csp_TgYunPanLocal",
       "searchable": 1,
       "filterable": 0,
@@ -238,7 +238,7 @@
       "name": "🍉短剧┃秒播🍉",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -247,7 +247,7 @@
       "name": "🍉短剧┃仙品🍉",
       "type": 3,
       "api": "csp_Wexduanjuhema",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",	    
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -256,14 +256,14 @@
       "name": "🍉短剧┃极品🍉",
       "type": 3,
       "api": "csp_Wexduanju001",
-      "jar": "./wex/wex.txt",    
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt",    
       "searchable": 1,
       "changeable": 1
     },
     {
       "key": "Wexduanjuvip",
       "name": "🍉短剧┃精品🍉",
-      "jar": "./wex/wex.txt",   
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt",   
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -274,7 +274,7 @@
       "name": "🌺韩剧┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanjutv",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -283,7 +283,7 @@
       "name": "🌺韩圈┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanxiaoquan",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -516,7 +516,7 @@
       "name": "👼多多┃儿歌👼",
       "type": 3,
       "api": "csp_Wexergeduoduo",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -529,7 +529,7 @@
       "name": "👼宝宝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbaobaobashi",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -542,7 +542,7 @@
       "name": "👼贝贝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbeiwa",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -555,7 +555,7 @@
       "name": "👼兔兔┃儿歌👼",
       "type": 3,
       "api": "csp_Wextuxiaobei",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -568,7 +568,7 @@
       "name": "🌐格斗┃体育🌐",
       "type": 3,
       "api": "csp_Wexwuxiang",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -581,7 +581,7 @@
       "name": "🌐格斗┃WWE🌐",
       "type": 3,
       "api": "csp_Wexwwe",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 0
     },
@@ -590,7 +590,7 @@
       "name": "🌐88┃体育🌐",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -602,7 +602,7 @@
       "name": "🌐926┃体育🌐",
       "type": 3,
       "api": "csp_Wex926kanqiu",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9", 
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9", 
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -614,7 +614,7 @@
       "name": "🌐一直┃体育🌐",
       "type": 3,
       "api": "csp_Wexzhibo1",
-      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		    
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		    
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -626,7 +626,7 @@
 	  "name":"🐧大鹅┃体育🌐",
 	  "type":3,
 	  "api":"csp_XPath",
-          "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		
+          "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		
 	  "style":{"type":"list"},
       "searchable":0,
 	  "quickSearch":0,
