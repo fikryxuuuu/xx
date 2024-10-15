@@ -1,3 +1,4 @@
+
 {
 	"spider":"https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/pg/pg.jar",
 	"logo": "https://static.wixstatic.com/media/e0554b_1b04437dc0cc4ac0aea1c0851c3df2cd~mv2.gif",
@@ -21,7 +22,7 @@
       "name": "配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
-      "jar": "./zx.jar",
+      "jar": "./zx/zx.jar",
       "searchable": 0,
       "changeable": 0,
       "ext": {
@@ -55,7 +56,7 @@
       "key": "星剧社",
       "name": "星剧社",
       "type": 3,
-      "jar": "./zx.jar",
+      "jar": "./zx/zx.jar",
       "api": "csp_Star2",
       "searchable": 1,
       "filterable": 0,
@@ -69,7 +70,7 @@
       "name": "💓‍聚合┃直播💓‍",
       "type": 3,
       "api": "csp_Wexalllive",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -78,7 +79,7 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -127,7 +128,7 @@
       "key": "TgYunPan|服务器",
       "name": "🍉TG真心|服务器",
       "type": 3,
-      "jar": "./zx.jar",	   
+      "jar": "./zx/zx.jar",	   
       "api": "csp_TgYunPan",
       "searchable": 1,
       "filterable": 0,
@@ -142,7 +143,7 @@
       "key": "TgYunPan|本地",
       "name": "🍉TG真心|本地",
       "type": 3,
-      "jar": "./zx.jar",
+      "jar": "./zx/zx.jar",
       "api": "csp_TgYunPanLocal",
       "searchable": 1,
       "filterable": 0,
@@ -231,24 +232,13 @@
                     "ratio": 1.77
             }
     },
-    {
-			"key": "hipy_js_爱看短剧[盘]",
-			"name": "爱看短剧[盘](drpy_t3)",
-			"type": 3,
-			"api": "./dz/drpy_libs/drpy2.min.js",
-			"jar": "./pgold.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./dz/drpy_js/爱看短剧[盘].js"
-		},
+
     {
       "key": "Wexduanjuvop",
       "name": "🍉短剧┃秒播🍉",
       "type": 3,
       "api": "csp_Wexduanjuvop",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -257,7 +247,7 @@
       "name": "🍉短剧┃仙品🍉",
       "type": 3,
       "api": "csp_Wexduanjuhema",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",	    
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",	    
       "searchable": 1,
       "changeable": 1
     },
@@ -266,14 +256,14 @@
       "name": "🍉短剧┃极品🍉",
       "type": 3,
       "api": "csp_Wexduanju001",
-      "jar": "./wex.txt",    
+      "jar": "./wex/wex.txt",    
       "searchable": 1,
       "changeable": 1
     },
     {
       "key": "Wexduanjuvip",
       "name": "🍉短剧┃精品🍉",
-      "jar": "./wex.txt",   
+      "jar": "./wex/wex.txt",   
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -284,7 +274,7 @@
       "name": "🌺韩剧┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanjutv",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -293,7 +283,7 @@
       "name": "🌺韩圈┃秒播🌺",
       "type": 3,
       "api": "csp_Wexhanxiaoquan",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 1
     },
@@ -466,120 +456,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"YunPanOne","name":"云盘One|网盘搜索","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./pg/lib/tokenm.json$$$null$$$proxy$$$1"},
-		{
-			"key": "新6V",
-			"name": "新6V|网盘",
-			"type": 3,
-			"api": "csp_Xb6v",
-			"searchable": 1,
-			"changeable": 1,
-			"timeout": 60,
-			"ext": "./pg/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
-		},
-		{
-			"key": "賤賤",
-			"name": "荐片",
-			"type": 3,
-			"api": "csp_Jianpian",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "./pg/lib/jianpian.json$$$1",
-			"timeout":60
-		},
-		{
-			"key": "NanGua",
-			"name": "南瓜|弹幕",
-			"type": 3,
-			"api": "csp_NanGua",
-			"searchable": 1,
-			"changeable": 1,
-			"ext": "null$$$1"
-		},
-		{
-			"key": "天天",
-			"name": "天天┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"ext": "http://op.ysdqjs.cn$$$null$$$1"
-		},
-		{
-			"key": "追剧",
-			"name": "追剧┃App",
-			"type": 3,
-			"api": "csp_TTian",
-			"ext": "http://app.kzjtv.com$$$null$$$1"
-		},
-		{
-			"key": "黑木耳",
-			"name": "黑木耳",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{
-			"key": "索尼资源",
-			"name": "索尼┃资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"国产剧",
-				"欧美剧",
-				"韩剧",
-				"日剧",
-				"港剧",
-				"台剧",
-				"泰剧",
-				"海外剧",
-				"纪录片",
-				"大陆综艺",
-				"日韩综艺",
-				"港台综艺",
-				"欧美综艺",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"动画片",
-				"港台动漫",
-				"海外动漫",
-				"演唱会",
-				"体育赛事",
-				"篮球",
-				"足球",
-				"预告片",
-				"斯诺克",
-				"影视解说"
-			],
-			"searchable": 1,
-			"quickSearch": 1
-		},
-		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":60,
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/yyets.js", "quickSearch":1, "changeable":1, "timeout":60,
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"./pg/lib/drpy2.min.js","ext":"./pg/js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./pg/lib/tokenm.json$$$./pg/lib/4khdr.txt$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
+
 		{"key":"UP云搜","name":"阿里|UP云搜","type":3,"api":"csp_UpYun","timeout":30, "ext":"./pg/lib/tokenm.json",
 			"style": {
 				"type": "list",
@@ -610,166 +487,6 @@
 			"filterable": 1
 		},
 		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy"},
-		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
-		{
-			"key": "星星",
-			"name": "星星 | 海外",
-			"type": 3,
-			"api": "csp_Star",
-			"searchable": 1,
-			"changeable": 0,
-			"ext":"proxy"
-		},
-		{
-			"key": "獨播",
-			"name": "獨播 | 海外",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"changeable": 0,
-			"ext": "./pg/lib/duboku.json$$$proxy"
-		},
-		{
-			"key": "haiwaikan",
-			"name": "海外看",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://haiwaikan.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"日本动漫",
-				"国产动漫",
-				"欧美动漫",
-				"国产剧",
-				"韩剧",
-				"日剧",
-				"台剧",
-				"泰剧",
-				"港剧",
-				"欧美剧",
-				"动画电影",
-				"韩国综艺",
-				"国产综艺",
-				"日本综艺",
-				"欧美综艺",
-				"冒险片",
-				"剧情片",
-				"动作片",
-				"同性片",
-				"喜剧片",
-				"奇幻片",
-				"恐怖片",
-				"悬疑片",
-				"惊悚片",
-				"战争片",
-				"歌舞片",
-				"灾难片",
-				"爱情片",
-				"犯罪片",
-				"科幻片",
-				"纪录片",
-				"经典片"
-			]
-		},
-		{
-			"key": "ikun",
-			"name": "ikun",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "飞速资源",
-			"name": "飞速资源",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "暴風",
-			"name": "暴風",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "索尼",
-			"name": "索尼 ",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "快帆",
-			"name": "快帆",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/https://api.kuaifan.tv/api.php/provide/vod?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "量子",
-			"name": "量子",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1
-		},
-		{
-			"key": "非凡",
-			"name": "非凡",
-			"type": 1,
-			"api": "http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
-			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-			"playerType":1,
-			"searchable": 1,
-			"changeable": 1,
-			"categories": [
-				"国产动漫",
-				"日韩动漫",
-				"国产剧",
-				"韩国剧",
-				"日本剧",
-				"电影片",
-				"连续剧",
-				"综艺片",
-				"动漫片",
-				"动作片",
-				"喜剧片",
-				"爱情片",
-				"科幻片",
-				"恐怖片",
-				"剧情片",
-				"战争片",
-				"香港剧",
-				"欧美剧",
-				"记录片",
-				"台湾剧",
-				"海外剧",
-				"泰国剧",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫"
-			]
-		},
 		{
 			"key": "櫻花",
 			"name": "櫻花",
@@ -799,7 +516,7 @@
       "name": "👼多多┃儿歌👼",
       "type": 3,
       "api": "csp_Wexergeduoduo",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -812,7 +529,7 @@
       "name": "👼宝宝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbaobaobashi",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -825,7 +542,7 @@
       "name": "👼贝贝┃儿歌👼",
       "type": 3,
       "api": "csp_Wexbeiwa",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -838,7 +555,7 @@
       "name": "👼兔兔┃儿歌👼",
       "type": 3,
       "api": "csp_Wextuxiaobei",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",   
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -851,7 +568,7 @@
       "name": "🌐格斗┃体育🌐",
       "type": 3,
       "api": "csp_Wexwuxiang",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 0,
 	  	  "style": {
@@ -864,7 +581,7 @@
       "name": "🌐格斗┃WWE🌐",
       "type": 3,
       "api": "csp_Wexwwe",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 0
     },
@@ -873,7 +590,7 @@
       "name": "🌐88┃体育🌐",
       "type": 3,
       "api": "csp_Kanqiu",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -885,7 +602,7 @@
       "name": "🌐926┃体育🌐",
       "type": 3,
       "api": "csp_Wex926kanqiu",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9", 
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9", 
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -897,7 +614,7 @@
       "name": "🌐一直┃体育🌐",
       "type": 3,
       "api": "csp_Wexzhibo1",
-      "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		    
+      "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		    
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -909,7 +626,7 @@
 	  "name":"🐧大鹅┃体育🌐",
 	  "type":3,
 	  "api":"csp_XPath",
-          "jar": "./wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		
+          "jar": "./wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",		
 	  "style":{"type":"list"},
       "searchable":0,
 	  "quickSearch":0,
