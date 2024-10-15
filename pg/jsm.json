@@ -1,5 +1,5 @@
 {
-	"spider":"./pg/pg.jar",
+	"spider":"https://raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/pg/pg.jar",
 	"logo": "https://static.wixstatic.com/media/e0554b_1b04437dc0cc4ac0aea1c0851c3df2cd~mv2.gif",
 	"sites":[
 
