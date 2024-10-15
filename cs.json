@@ -29,6 +29,16 @@
         "commonConfig": "./zx/peizhi.json"
       }
     },
+   {
+      "key": "Wexokconfig",
+      "name": "🐮影视专用┃配置中心🐮",
+      "type": 3,
+      "api": "csp_Wexokconfig",
+      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0
+    },
 		{
 			"key":"🐏PG|Youtube",
 			"name":"🐏PG|Youtube",
