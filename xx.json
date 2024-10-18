@@ -1055,7 +1055,7 @@
 			{
 				"name": "live.ipv6.local",
 				"type": 0,
-				"url": "./lib/live.ipv6.txt",
+				"url": "./pg/lib/live.ipv6.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1138,7 +1138,7 @@
 				"name": "YTLive",
 				"type": 0,
 				
-				"url": "./lib/yo21.txt"
+				"url": "./pg/lib/yo21.txt"
 			},
 			{
 				"name": "直播",
