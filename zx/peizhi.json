@@ -7,5 +7,6 @@
   "goServerUrl": "http://127.0.0.1:9966",
   "ydAuth": "",
   "proxy":"http://127.0.0.1:1072",
-  "tgsou_api_session":""
+  "tgsou_api_session":"",
+  "tgPic": "true"
 }
