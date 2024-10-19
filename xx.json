@@ -1232,7 +1232,7 @@
 			}
 		],
 		"rules":[
-			{
+		        {
 				"name": "proxy",
 				"hosts": [
 					"raw.githubusercontent.com",
@@ -1249,7 +1249,13 @@
 					".*boku.*",
 					".*nivod.*",
 					"*.t4tv.hz.cz",
-					".*ulivetv.*"
+					".*ulivetv.*",
+					".*mytvsuper.com.*",
+					".*tvb.com*",
+					".*4gtv.tv*",
+					".*hinet.net*",
+					".*ofiii.com*",
+					".*stream-link.org*"
 				]
 			},
 			{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
