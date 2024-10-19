@@ -982,7 +982,7 @@
 				"name": "肥羊TPTV",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tptv.m3u",
-				"ua": "okhttp/3.15",
+				"ua": "AptvPlayer/1.3.3",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
@@ -1033,7 +1033,7 @@
 				"name": "PixMan.4GTV",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://pixman.digimon.us.kg/4gtv.m3u",
-				"ua": "okhttp/3.15",
+				"ua": "AptvPlayer/1.3.3",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
@@ -1041,7 +1041,7 @@
 				"name": "PixMan.ITV",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://pixman.digimon.us.kg/itv.m3u",
-				"ua": "okhttp/3.15",
+				"ua": "AptvPlayer/1.3.3",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
@@ -1049,7 +1049,7 @@
 				"name": "PixMan.TPTV",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://pixman.digimon.us.kg/tptv.m3u",
-				"ua": "okhttp/3.15",
+				"ua": "AptvPlayer/1.3.3",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
@@ -1065,7 +1065,7 @@
 				"name": "PixMan.BeeSport",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/c/3600/null/http://pixman.digimon.us.kg/beesport.m3u",
-				"ua": "okhttp/3.15",
+				"ua": "AptvPlayer/1.3.3",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
@@ -1094,42 +1094,10 @@
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
-				"name": "live.fan",
-				"type": 0,
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-				
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
-				"name": "YTLive",
-				"type": 0,
-				
-				"url": "./pg/lib/yo21.txt"
-			},
-			{
-				"name": "直播",
-				"type": 0,
-				
-				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
-			{
 				"name": "TXT",
 				"type": 0,
 				
 				"url": "http://home.jundie.top:81/Cat/tv/live.txt",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-			},
-			{
-				"name": "Json",
-				"type": 1,
-				
-				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
 				"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
