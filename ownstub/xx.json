@@ -1,0 +1,35 @@
+{
+  "spider": "https://cdn.jsdelivr.net/gh/fikryxuuuu/xx/xx.jar",
+  "logo": "https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif",
+  "wallpaper": "https://bing.img.run/rand.php",
+  "sites": [
+    {
+      "key": "OwnCenter",
+      "name": "🛠 我们的配置中心",
+      "type": 3,
+      "api": "csp_OwnConfigCenter",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "{\"siteUrl\":[\"https://123.666291.xyz\",\"https://666.666291.xyz\",\"https://www.muou.site\",\"https://www.muou.asia\"],\"peizhi\":\"https://cdn.jsdelivr.net/gh/fikryxuuuu/xx/peizhi.json\"}"
+    },
+    {
+      "key": "OwnMuou",
+      "name": "🌳 我们的玩偶",
+      "type": 3,
+      "api": "csp_OwnMuou",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "{\"siteUrl\":[\"https://123.666291.xyz\",\"https://666.666291.xyz\",\"https://www.muou.site\",\"https://www.muou.asia\"],\"peizhi\":\"https://cdn.jsdelivr.net/gh/fikryxuuuu/xx/peizhi.json\"}"
+    },
+    {
+      "key": "OwnPanLian",
+      "name": "🌳 我们的网盘",
+      "type": 3,
+      "api": "csp_OwnPanLian",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "{\"siteUrl\":[\"https://123.666291.xyz\",\"https://666.666291.xyz\",\"https://www.muou.site\",\"https://www.muou.asia\"],\"peizhi\":\"https://cdn.jsdelivr.net/gh/fikryxuuuu/xx/peizhi.json\"}"
+    }
+  ],
+  "rules": []
+}
