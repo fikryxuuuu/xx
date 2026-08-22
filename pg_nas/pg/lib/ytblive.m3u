@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,tvg-id="凤凰卫视资讯" tvg-name="凤凰卫视资讯" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯.png" group-title="港台新闻",凤凰卫视资讯-YTB
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&type=mpd&keyword=鳳凰衛視直播
+#EXTINF:-1,tvg-id="Lofi" tvg-name="Lofi" group-title="氛围直播",Lofi Girl-YTB
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&type=mpd&keyword=lofi%20hip%20hop%20radio%20live
+#EXTINF:-1,tvg-id="NASA" tvg-name="NASA" group-title="氛围直播",NASA Live-YTB
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&type=mpd&keyword=NASA%20live
+#EXTINF:-1,tvg-id="TimesSquare" tvg-name="TimesSquare" group-title="氛围直播",Times Square-YTB
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&type=mpd&keyword=Times%20Square%20live

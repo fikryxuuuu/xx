@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+#EXTINF:-1,tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視資訊台.png" group-title="YouTube",鳳凰衛視資訊台
+http://64.181.247.193:50008/video?id=LNux6O0Fj6A
+#EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="YouTube",民視新聞台
+http://64.181.247.193:50008/video?id=ylYJSBUgaMA
+#EXTINF:-1,tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://epg.112114.xyz/logo/台視新聞.png" group-title="YouTube",台視新聞
+http://64.181.247.193:50008/video?id=xL0ch83RAK8
+#EXTINF:-1,tvg-id="公視新聞" tvg-name="公視新聞" tvg-logo="https://epg.112114.xyz/logo/公視新聞.png" group-title="YouTube",公視新聞
+http://64.181.247.193:50008/video?id=quwqlazU-c8
+#EXTINF:-1,tvg-id="鏡新聞" tvg-name="鏡新聞" tvg-logo="https://epg.112114.xyz/logo/鏡新聞.png" group-title="YouTube",鏡新聞
+http://64.181.247.193:50008/video?id=5n0y6b0Q25o
+#EXTINF:-1,tvg-id="中視综艺台" tvg-name="中視综艺台" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="YouTube",中視综艺台
+http://64.181.247.193:50008/video?id=A98LJq71BZg
+#EXTINF:-1,tvg-id="中視新聞台" tvg-name="中視新聞台" tvg-logo="https://epg.112114.xyz/logo/中視新聞台.png" group-title="YouTube",中視新聞台
+http://64.181.247.193:50008/video?id=TCnaIE_SAtM
+#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="YouTube",中天新聞台
+http://64.181.247.193:50008/video?id=vr3XyVCR4T0
+#EXTINF:-1,tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg.112114.xyz/logo/中天亞洲台.png" group-title="YouTube",中天亞洲台
+http://64.181.247.193:50008/video?id=dKkyfjn8xq8
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="YouTube",东森新闻台
+http://64.181.247.193:50008/video?id=V1p33hqPrUk
+#EXTINF:-1,tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞.png" group-title="YouTube",東森財經新聞
+http://64.181.247.193:50008/video?id=1I2iq41Akmo
+#EXTINF:-1,tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台.png" group-title="YouTube",寰宇新聞台
+http://64.181.247.193:50008/video?id=6IquAgfvYmc
+#EXTINF:-1,tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞台灣台.png" group-title="YouTube",寰宇新聞台灣台
+http://64.181.247.193:50008/video?id=w87VGpgd90U
+#EXTINF:-1,tvg-id="公視新聞" tvg-name="公視新聞" tvg-logo="https://epg.112114.xyz/logo/公視新聞.png" group-title="YouTube",公視新聞
+http://64.181.247.193:50008/video?id=quwqlazU-c8
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="YouTube",TVBS新聞
+http://64.181.247.193:50008/video?id=2mCSYvcfhtc
+#EXTINF:-1,tvg-id="三立新闻海外直播" tvg-name="三立新闻海外直播" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="YouTube",三立新闻海外直播
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.comhGJkDZDchYI
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="YouTube",三立新闻台湾直播
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.comMV9mI0GChwo
+#EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立INEWS.png" group-title="YouTube",三立iNEWS
+http://64.181.247.193:50008/video?id=pF507BLtbqU
+#EXTINF:-1,tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="YouTube",ABCNEWS
+http://64.181.247.193:50008/video?id=-mvUkiILTqI
+#EXTINF:-1,tvg-id="ABC7NewYork" tvg-name="ABC7NewYork" tvg-logo="https://epg.112114.xyz/logo/ABC7NEWYORK.png" group-title="YouTube",ABC7NewYork
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.comVrhYz4CL70I
+#EXTINF:-1,tvg-id="CNANEWS" tvg-name="CNANEWS" tvg-logo="https://epg.112114.xyz/logo/CNANEWS.png" group-title="YouTube",CNANEWS
+http://64.181.247.193:50008/video?id=XWq5kBlakcQ
+#EXTINF:-1,tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="YouTube",CBSNews
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.come_vEct0OMT4
+#EXTINF:-1,tvg-id="FOX" tvg-name="FOX" tvg-logo="https://epg.112114.xyz/logo/FOX.png" group-title="YouTube",LiveNOWFOX
+http://64.181.247.193:50008/video?id=YDfiTGGPYCk
+#EXTINF:-1,tvg-id="UnitedNations" tvg-name="UnitedNations" tvg-logo="https://epg.112114.xyz/logo/UNITEDNATIONS.png" group-title="YouTube",UnitedNations
+http://64.181.247.193:50008/video?id=wfAa1GiNdgM
+#EXTINF:-1,tvg-id="FRANCE24" tvg-name="FRANCE24" tvg-logo="https://epg.112114.xyz/logo/FRANCE24.png" group-title="YouTube",FRANCE24English
+http://127.0.0.1:9978/proxy?do=yt&proxy=proxy&url=https://m.youtube.comAp-UM1O9RBU
+#EXTINF:-1,tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://epg.112114.xyz/logo/NHKWORLD.png" group-title="YouTube",NHKWORLD
+http://64.181.247.193:50008/video?id=f0lYkdA-Gtw
+#EXTINF:-1,tvg-id="EURONEWS" tvg-name="EURONEWS" tvg-logo="https://epg.112114.xyz/logo/EURONEWS.png" group-title="YouTube",EuronewsEnglish
+http://64.181.247.193:50008/video?id=pykpO5kQJ98
+#EXTINF:-1,tvg-id="大愛一臺HD" tvg-name="大愛一臺HD" tvg-logo="https://epg.112114.xyz/logo/大愛一臺.png" group-title="YouTube",大愛一臺HD
+http://64.181.247.193:50008/video?id=MIqUplvSRWA
+#EXTINF:-1,tvg-id="大愛二臺HD" tvg-name="大愛二臺HD" tvg-logo="https://epg.112114.xyz/logo/大愛二臺.png" group-title="YouTube",大愛二臺HD
+http://64.181.247.193:50008/video?id=DTNkEm6jaqQ

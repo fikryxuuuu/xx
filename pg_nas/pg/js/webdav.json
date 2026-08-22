@@ -1,0 +1,13 @@
+{
+"drives": [
+                      {
+                        "name": "小小徐",
+                        "search": true,
+                        "searchable": true,
+                        "server": "http://64.181.247.193:5678",
+                        "path": "/dav",
+                        "user": "guest",
+                        "pass": "guest"
+                    }
+                ]
+}

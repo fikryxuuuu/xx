@@ -1,0 +1,11 @@
+{
+  "drives": [
+    {
+      "name": "alist白嫖",
+      "search": true,
+      "searchable": true,
+      "server": "http://139.196.53.239:8765/"
+    }
+  ],
+  "danmu":true
+}
