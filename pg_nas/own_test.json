@@ -1,0 +1,32 @@
+{
+  "spider": "https://raw.githubusercontent.com/fikryxuuuu/xx/main/pg_nas/pg/pg.jar",
+  "sites": [
+    {
+      "key": "ownconfig",
+      "name": "🛠我们的配置中心[自测]",
+      "type": 3,
+      "api": "./js/ownconfig.js",
+      "searchable": 0,
+      "changeable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "owntest",
+      "name": "own自测[机制验证]",
+      "type": 3,
+      "api": "./js/ownconfig_test.js",
+      "searchable": 0,
+      "changeable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "TGDouban",
+      "name": "TG豆瓣[对照]",
+      "type": 3,
+      "api": "csp_TGDouban",
+      "ext": {
+        "token": "https://raw.githubusercontent.com/fikryxuuuu/xx/main/pg_nas/pg/lib/tokenm.json"
+      }
+    }
+  ]
+}
