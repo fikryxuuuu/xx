@@ -1,0 +1,12 @@
+{
+  "spider": "pg_nas/pg_proof/pg_proof.jar",
+  "sites": [
+    {
+      "key": "输入测试",
+      "name": "✅改Jar验证",
+      "type": 3,
+      "api": "csp_Config",
+      "ext": "https://raw.githubusercontent.com/fikryxuuuu/xx/main/pg_nas/pg_proof/pg_proof.jar"
+    }
+  ]
+}
