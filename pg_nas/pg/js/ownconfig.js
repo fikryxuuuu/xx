@@ -1,5 +1,5 @@
 var rule = {
-    title:'🛠 我的配置中心',
+    title:'🛠我们的配置中心[自测]',
     host:'https://raw.githubusercontent.com',
     homeUrl:'/',
     url:'*',
@@ -14,9 +14,9 @@ var rule = {
             {"type_id":"muou","type_name":"玩偶"},
             {"type_id":"pan","type_name":"网盘"}
         ],"list":[
-            {"vod_id":"c1","vod_name":"⚙️ 配置中心-基础设置","vod_pic":"https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif","vod_remarks":"OWN"},
-            {"vod_id":"m1","vod_name":"🧸 玩偶-木偶剧场","vod_pic":"https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif","vod_remarks":"OWN"},
-            {"vod_id":"p1","vod_name":"☁️ 网盘-云分享","vod_pic":"https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif","vod_remarks":"OWN"}
+            {"vod_id":"c1","vod_name":"🛠 配置中心-基础设置","vod_pic":"https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif","vod_remarks":"OWN"},
+            {"vod_id":"m1","vod_name":"🌳 玩偶-木偶剧场","vod_pic":"https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif","vod_remarks":"OWN"},
+            {"vod_id":"p1","vod_name":"🌳 网盘-云分享","vod_pic":"https://img.zcool.cn/community/01a8ba5af5593fa801207ab43307d5.gif","vod_remarks":"OWN"}
         ]});
     },
     categoryContent:function(t,p,fl,ext){
