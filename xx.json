@@ -20,17 +20,10 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "./pg/lib/tokenm.json",
-      "style": { "type": "rect", "ratio": 1.5 }
-    },
-    {
-      "key": "ConfigCenter",
-      "name": "🛠 我的配置中心",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "jar": "./pg/js/ownconfig.js",
-      "searchable": 0,
-      "changeable": 0,
-      "style": { "type": "rect", "ratio": 1.5 }
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
     }
   ]
 }
