@@ -1,0 +1,38 @@
+{
+  "spider": "./ownspider_v3.jar",
+  "sites": [
+    {
+      "key": "douban",
+      "name": "豆瓣示例(自建v3)",
+      "type": 1,
+      "api": "csp_JsSpider",
+      "ext": "catvod/my.js",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "quark",
+      "name": "夸克网盘(自建v3)",
+      "type": 1,
+      "api": "csp_QuarkShare",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "pansou",
+      "name": "网盘聚合搜索(自建v3)",
+      "type": 1,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "btsow",
+      "name": "BT搜索(自建v3)",
+      "type": 1,
+      "api": "csp_BtSow",
+      "searchable": 1,
+      "filterable": 0
+    }
+  ]
+}
