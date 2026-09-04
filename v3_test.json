@@ -1,0 +1,39 @@
+{
+  "spider": "./ownspider_v3.jar",
+  "sites": [
+    {
+      "key": "douban",
+      "name": "豆瓣示例(自建v3)",
+      "type": 1,
+      "api": "csp_JsSpider",
+      "ext": "catvod/my.js",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "quark",
+      "name": "夸克网盘(自建v3)",
+      "type": 1,
+      "api": "csp_QuarkShare",
+      "ext": "quark_cookie=__pus=a8020dce2b614c27f541f00fcf6977a9AATcBlChFEsVAvja6wHW7pyHBd6mRvCsKV4d9fZjqTgCTk2pLzr7S4ySRcITFT97GowoIOoy78a/Sn/IsG/9RoHl; __puus=586d0d44b4c7fae8ff1530ca94367128AATV79hO+30rSCCTYLxJccgqQgWaoFstLI/RFtDewuZwMgZxAwg5qj8OYC0eUHxY3/vv3uICCUo6y4CEJtkd9IPNxzUOZWnu/89SOizA7ahfAmVXPKTSYKb4xmWZx1p1No2s8LNfS6Ya34pciBsyuBcCd+a9bpFVqh26TWQedUtnRH2LU1+Daqkon9ayGxaFcDeaJMTDhi504OtFBZN1d/gf",
+      "searchable": 0,
+      "filterable": 0
+    },
+    {
+      "key": "pansou",
+      "name": "网盘聚合搜索(自建v3)",
+      "type": 1,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "btsow",
+      "name": "BT搜索(自建v3)",
+      "type": 1,
+      "api": "csp_BtSow",
+      "searchable": 1,
+      "filterable": 0
+    }
+  ]
+}
