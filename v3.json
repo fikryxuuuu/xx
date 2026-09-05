@@ -4,7 +4,7 @@
     {
       "key": "douban",
       "name": "豆瓣示例(自建v3)",
-      "type": 1,
+      "type": 3,
       "api": "csp_JsSpider",
       "ext": "catvod/my.js",
       "searchable": 1,
@@ -13,27 +13,29 @@
     {
       "key": "quark",
       "name": "夸克网盘(自建v3)",
-      "type": 1,
-      "api": "csp_QuarkShare",
-      "ext": "",
+      "type": 3,
+      "api": "csp_JsSpider",
+      "ext": "catvod/quark.js",
       "searchable": 0,
       "filterable": 0
     },
     {
       "key": "pansou",
       "name": "网盘聚合搜索(自建v3)",
-      "type": 1,
-      "api": "csp_PanSou",
+      "type": 3,
+      "api": "csp_JsSpider",
       "searchable": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "catvod/pansou.js"
     },
     {
       "key": "btsow",
       "name": "BT搜索(自建v3)",
-      "type": 1,
-      "api": "csp_BtSow",
+      "type": 3,
+      "api": "csp_JsSpider",
       "searchable": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "catvod/btsow.js"
     }
   ]
 }
